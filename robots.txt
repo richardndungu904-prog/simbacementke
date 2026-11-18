@@ -1,0 +1,6 @@
+# Allow search engines and AI crawlers to access public pages.
+# The enquiry confirmation page is excluded from search via its noindex tag.
+User-agent: *
+Allow: /
+
+Sitemap: https://simbacement-ltd.netlify.app/sitemap.xml
