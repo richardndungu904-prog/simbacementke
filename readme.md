@@ -37,7 +37,7 @@ The project publishes directly from the repository root using `netlify.toml`. Co
 
 All purchases and orders are placed by WhatsApp or phone call.
 
-- Phone / WhatsApp: 0750 502 128 (+254 750 502 128)
+- Phone / WhatsApp: 0755340004(+254 755340004)
 - Email: simbacementfactory3@gmail.com
 - TikTok: https://www.tiktok.com/@simbacement1
 
